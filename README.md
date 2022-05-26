@@ -6,7 +6,7 @@
 <a href="https://www.instagram.com/sk.w_1119/" target="_blank"><img src="https://img.shields.io/badge/instagram-F7819F?style=flat-square&logo=instagram&logoColor=FFFFFF"/></a> <a href="https://www.instagram.com/sk.w_1119/" target="_blank"><img src="https://img.shields.io/badge/blog-00FF40?style=flat-square&logo=Naver&logoColor=FFFFFF"/></a>
   
   <h3>📝STUDYING📝</h3>
-  <a><img src="https://img.shields.io/badge/React-00D1F7?style=flat-square&logo=React&logoColor=FFFFFF"/></a> <a><img src="https://img.shields.io/badge/HTML-F1662A?style=flat-square&logo=HTML5&logoColor=FFFFFF"/></a> <a><img src="https://img.shields.io/badge/CSS-33A9DC?style=flat-square&logo=React&logoColor="FFFFFF"/></a> <a><img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=Javascript&logoColor=FFFFFF"/></a>
+  <a><img src="https://img.shields.io/badge/React-00D1F7?style=flat-square&logo=React&logoColor=FFFFFF"/></a> <a><img src="https://img.shields.io/badge/HTML-F1662A?style=flat-square&logo=HTML5&logoColor=FFFFFF"/></a> <a><img src="https://img.shields.io/badge/CSS-33A9DC?style=flat-square&logo=React&logoColor="FFFFFF"/></a> <a><img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=Javascript&logoColor=FFFFFF"/></a> <a><img src="https://img.shields.io/badge/Redux-7F42C3?style=flat-square&logo=Redux&logoColor=FFFFFF"/></a>
   
  ![7083ef063b41a9c1c63c425b815814f5](https://user-images.githubusercontent.com/85424081/170415300-a5c0317e-8d86-411e-9962-10a670e6edfb.gif)
 
