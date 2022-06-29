@@ -10,7 +10,7 @@
   <a><img src="https://img.shields.io/badge/React-00D1F7?style=flat-square&logo=React&logoColor=FFFFFF"/></a> <a><img src="https://img.shields.io/badge/HTML-F1662A?style=flat-square&logo=HTML5&logoColor=FFFFFF"/></a> <a><img src="https://img.shields.io/badge/CSS-33A9DC?style=flat-square&logo=Css3&logoColor="FFFFFF"/></a> <a><img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=Javascript&logoColor=FFFFFF"/></a> <a><img src="https://img.shields.io/badge/Redux-7F42C3?style=flat-square&logo=Redux&logoColor=FFFFFF"/></a>
   
  <h3>🔥hard work🔥</h3>
- <a><img src="https://img.shields.io/badge/React-00D1F7?style=flat-square&logo=React&logoColor=FFFFFF"/></a> <a><img src="https://img.shields.io/badge/Redux-7F42C3?style=flat-square&logo=Redux&logoColor=FFFFFF"/></a> <a><img src="https://img.shields.io/badge/Sass-CF649A?style=flat-square&logo=Sass&logoColor=FFFFFF"/></a>
+ <a><img src="https://img.shields.io/badge/React-00D1F7?style=flat-square&logo=React&logoColor=FFFFFF"/></a> <a><img src="https://img.shields.io/badge/Redux-7F42C3?style=flat-square&logo=Redux&logoColor=FFFFFF"/></a> <a><img src="https://img.shields.io/badge/Sass-CF649A?style=flat-square&logo=Sass&logoColor=FFFFFF"/></a> <a><img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=FFFFFF"/></a>
     
  <hr>
  
