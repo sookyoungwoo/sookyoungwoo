@@ -12,8 +12,5 @@
     
  <hr>
  
- ![7083ef063b41a9c1c63c425b815814f5](https://user-images.githubusercontent.com/85424081/170415300-a5c0317e-8d86-411e-9962-10a670e6edfb.gif)
-
-  
  ![sookyoung's github stats](https://github-readme-stats.vercel.app/api?username=sookyoungwoo&show_icons=true&theme=graywhite) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sookyoungwoo&layout=compact&theme=graywhite)
 </div>
