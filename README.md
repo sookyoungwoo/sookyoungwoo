@@ -1,7 +1,10 @@
 <div align="center">
-  <h1>우수경입니당</h1>
 
-  she's [📄](https://www.notion.so/Aspiring-Developer-0cc07b31dab64488b30fa8b81198f6e0)
+ <h1>
+    <a href="https://www.notion.so/Aspiring-Developer-0cc07b31dab64488b30fa8b81198f6e0">
+         she's [📄] 
+     </a>
+</h1>
 
   
   <h3>Stack</h3>
