@@ -2,7 +2,7 @@
 
  <h3>
     <a href="https://www.notion.so/Aspiring-Developer-0cc07b31dab64488b30fa8b81198f6e0">
-         she's portfolio 📄 
+         portfolio 📄 
      </a>
 </h3>
 
