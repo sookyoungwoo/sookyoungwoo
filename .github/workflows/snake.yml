@@ -2,7 +2,7 @@
  
 name: Generate Snake
  
-# Action이 언제 구동될지 결정
+# Action 언제 구동될지 결정
  
 on:
   schedule:
